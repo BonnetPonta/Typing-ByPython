@@ -1,4 +1,4 @@
-# Typing-CUI_by_Python  
+# Typing-ByPython  
 ## CUI
 [EN]  
 First, decide on the character string you want to practice typing and use it.  
